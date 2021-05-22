@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Теперь меня можно **спонсировать**:
-* [PayPal](https://paypal.me/cynepsu)
-* [Яндекс.Деньги](https://sobe.ru/na/super_su)
-
+Кидайте деньги сюда: 
+5469 5500 4481 9107
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynep-SU)

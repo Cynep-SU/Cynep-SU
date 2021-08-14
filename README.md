@@ -1,3 +1,1 @@
-Потом оформлю это.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynep-SU)
+Hey everyone, I am Vasya Pankov, while doing quite amateur development of my various ideas.
